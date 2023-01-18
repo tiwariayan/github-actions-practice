@@ -1,2 +1,9 @@
 streamlit
 flake8
+numpy
+pandas
+matplotlib
+seaborn
+squarify
+folium
+plotly
